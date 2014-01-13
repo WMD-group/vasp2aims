@@ -10,4 +10,13 @@ Files
 
 Usage
 ------------
-Execute binary with no arguments. vasp2aims looks for an input file named "POSCAR" in the current directory, and creates a file named "geometry.in".
+Execute binary with no arguments. 
+*vasp2aims* looks for an input file named "POSCAR" in the current directory, 
+and creates a file named "geometry.in".
+
+Disclaimer
+----------
+
+This program is not affiliated with *FHI-aims* or *VASP*. 
+The program is made available under the GNU General Public License; 
+you are free to use and/or modify the code, but do so at your own risk.
